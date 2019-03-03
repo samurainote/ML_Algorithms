@@ -33,10 +33,9 @@ I also have my personal portfolio website, check out [akiratakezawa.com](https:/
 
 ### Computer Vision by Machine Learning コンピュータビジョンと画像認識
 
-- #### Seq2Seq センテンス to センテンス
 	- [Face Detection](https://github.com/samurainote/Face_Detection_with_OpenCV/blob/master/Face%20Detection.ipynb) 人間の顔認識:
-  - [Dog or Cat by CNN](https://github.com/samurainote/Image_Classifier_Dog_or_Cat_with_Keras/blob/master/dogvscat.ipynb) 犬と猫のバイナリ分類問題: 
-	- [Text Extraction by using OpenCV](https://github.com/samurainote/OCR_Text_Detection_from_Image/blob/master/maincode_text_extraction_from_images.ipynb) テキスト情報の抽出:
+  - [Dog or Cat by CNN](https://github.com/samurainote/Image_Classifier_Dog_or_Cat_with_Keras/blob/master/dogvscat.ipynb) 犬と猫のバイナリ分類問題:
+  - [Text Extraction by using OpenCV](http://bit.ly/2ED19In) テキスト情報の抽出:
   - [CNN for Sign Language Images](https://github.com/samurainote/CNN_for_Sign_Language_Images) 手話画像認識:
   - [CNN for Hand-written Digits](https://github.com/samurainote/CNN_for_Image_Processing_with_MNIST) 手書き数字認識:
   - [Simple Neural Network for Hand-written Digits](https://github.com/samurainote/SimpleNN_for_Handwritten_digits) 手書き数字認識:
