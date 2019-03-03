@@ -10,7 +10,7 @@ I also have my personal portfolio website, check out [akiratakezawa.com](https:/
 
 - #### Seq2Seq センテンス to センテンス
   - [Automatic Chatbot](https://github.com/samurainote/chatbot_slack_keras) チャットボット:
-  - [Machine Translation: English to Japanese](https://github.com/samurainote/chatbot_slack_keras) 機械翻訳:
+  - [Machine Translation](https://github.com/samurainote/chatbot_slack_keras) 機械翻訳:
   - [Text Summarization](https://github.com/samurainote/Text_Summarization_using_Bidirectional_LSTM) 文章要約:
   - [Speech Recognition](https://github.com/samurainote/Text_Generation_using_LSTMs/blob/master/maincode_text_generation_lstm.ipynb) 文章生成:
 - #### Multi-mordal マルチモーダル
@@ -33,8 +33,9 @@ I also have my personal portfolio website, check out [akiratakezawa.com](https:/
 
 ### Computer Vision by Machine Learning コンピュータビジョンと画像認識
 
+- #### Seq2Seq センテンス to センテンス
 	- [Face Detection](https://github.com/samurainote/Face_Detection_with_OpenCV/blob/master/Face%20Detection.ipynb) 人間の顔認識:
-  - [Dog or Cat by CNN](https://github.com/samurainote/Image_Classifier_Dog_or_Cat_with_Keras/blob/master/dogvscat.ipynb): 犬と猫のバイナリ分類問題
+  - [Dog or Cat by CNN](https://github.com/samurainote/Image_Classifier_Dog_or_Cat_with_Keras/blob/master/dogvscat.ipynb) 犬と猫のバイナリ分類問題: 
 	- [Text Extraction by using OpenCV](https://github.com/samurainote/OCR_Text_Detection_from_Image/blob/master/maincode_text_extraction_from_images.ipynb) テキスト情報の抽出:
   - [CNN for Sign Language Images](https://github.com/samurainote/CNN_for_Sign_Language_Images) 手話画像認識:
   - [CNN for Hand-written Digits](https://github.com/samurainote/CNN_for_Image_Processing_with_MNIST) 手書き数字認識:
@@ -48,11 +49,11 @@ I also have my personal portfolio website, check out [akiratakezawa.com](https:/
 
 ### Kaggle Challenfes: Prediction by Machine Learning ディープラーニングと機械学習を用いた予測モデル
 
+  - [Regression: HR Salary Prediction](https://github.com/samurainote/Regression_HR_Salary_Prediction/blob/master/maincode_hitters.ipynb) 年収予想:
   - [Classification: IBM Attrition Prediction](https://github.com/samurainote/ibm_attrition_classification): IBMの退職者予測.
   - [Time-Series Data: Stock Price Prediction using Neural Network](https://github.com/samurainote/Simple_Neural_Network_for_stock_price_prediction) 株価予測:
-  - [Boston House Price](https://github.com/samurainote/Boston_House_Price_with_Linear_Regression/blob/master/Boston_House_Price_with_Linear_Regression.ipynb) ボストンハウスプライスML:
-  - [Multi-layerNN_for_Regression_BHP](https://github.com/samurainote/Multi-layerNN_for_Regression_BHP/blob/master/Multi-layerNN_for_BHP.ipynb) ボストンハウスプライスDL:
-  - [](https://github.com/samurainote/Regression_HR_Salary_Prediction/blob/master/maincode_hitters.ipynb) 年収予想:
+  - [Regression: Boston House Price](https://github.com/samurainote/Boston_House_Price_with_Linear_Regression/blob/master/Boston_House_Price_with_Linear_Regression.ipynb) ボストンハウスプライスML:
+  - [Regression: Multi-layerNN_for_Regression_BHP](https://github.com/samurainote/Multi-layerNN_for_Regression_BHP/blob/master/Multi-layerNN_for_BHP.ipynb) ボストンハウスプライスDL:
   - []() タイタニックデータ:
 
 ### Machine Learning Foundation 機械学習のワークフロー Github&Medium
